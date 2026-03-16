@@ -151,7 +151,7 @@ const multer = require('multer');
 const path = require('path');   
 
 // Models Import
-const Product = require('./models/product'); 
+const Product = require('./models/Product'); 
 const User = require('./models/User');
 
 dotenv.config();
